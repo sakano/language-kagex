@@ -1,0 +1,21 @@
+{
+  "name": "language-kagex",
+  "main": "./lib/language-kagex",
+  "version": "0.0.0",
+  "description": "KAGEX or KAG script support in Atom",
+  "keywords": [
+    "language",
+    "grammar",
+    "kirikiri",
+    "kagex",
+    "kag"
+  ],
+  "repository": "https://github.com/sakano/language-kagex",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+      "language-tjs": "*"
+  }
+}
