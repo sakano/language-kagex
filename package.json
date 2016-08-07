@@ -1,7 +1,7 @@
 {
   "name": "language-kagex",
   "main": "./lib/language-kagex",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "KAGEX or KAG script support in Atom",
   "keywords": [
     "language",
@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "atom-package-deps": "*"
-    
   },
   "package-deps": [
     "language-tjs"
