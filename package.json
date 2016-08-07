@@ -15,7 +15,7 @@
   "engines": {
     "atom": "*"
   },
-  "package-dependencies": {
-    "language-tjs": "*"
+  "dependencies": {
+    "language-tjs": "git+https://github.com/sakano/language-tjs"
   }
 }
