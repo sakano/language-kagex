@@ -15,7 +15,7 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
+  "package-dependencies": {
     "language-tjs": "*"
   }
 }
