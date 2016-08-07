@@ -16,6 +16,10 @@
     "atom": "*"
   },
   "dependencies": {
-    "language-tjs": "git+https://github.com/sakano/language-tjs"
-  }
+    "atom-package-deps": "*"
+    
+  },
+  "package-deps": [
+    "language-tjs"
+  ]
 }

@@ -1,4 +1,4 @@
-## 0.2.2
+## 0.2.3
 * fix package.json to be able to install
 
 ## 0.2.0
