@@ -14,11 +14,5 @@
   "license": "MIT",
   "engines": {
     "atom": "*"
-  },
-  "dependencies": {
-    "atom-package-deps": "*"
-  },
-  "package-deps": [
-    "language-tjs"
-  ]
+  }
 }
